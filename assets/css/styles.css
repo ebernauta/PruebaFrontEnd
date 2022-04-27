@@ -72,8 +72,11 @@
   color: rgb(218, 88, 88);
 }
 
-img {
+.imagenes img {
     width: 25%;
-    float: left;
+    
 }
 
+.footer{
+    
+}
